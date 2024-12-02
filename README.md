@@ -19,7 +19,7 @@ ReplyRite is a conversational AI application built using Streamlit and Google's 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/replyrite.git
+git clone https://github.com/Huzaifarasheed1/replyrite.git
 cd replyrite
 ```
 
