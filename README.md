@@ -84,7 +84,3 @@ replyrite/
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-
-Project Link: [https://github.com/yourusername/replyrite](https://github.com/Huzaifarasheed1/replyrite)
